@@ -1,0 +1,14 @@
+#Tugas besar IoT 
+[ KELOMPOK 2 ]
+
+
+“SENSOR PERHITUNGAN PARKIR OTOMATIS MENGGUNAKAN INFRA RED DI LINGKUNGAN KAMPUS UNIVERSITAS PERTAMINA”
+
+1. Problem Statement
+Pengguna kendaraan di jakarta cukup marak digunakan oleh mahasiswa dan pekerja kantoran dari berbagai daerah, yang dimana minimnya lahan parkir dan banyaknya pengguna kendaraan pribadi, menyebabkan terbatasnya dan membludaknya kendaraan di sebuah parkiran. pada kasus ini khususnya di kampus universitas pertamina mahasiswa dari berbagai daerah cukup banyak yang menggunakan kendaraan pribadi, dan juga ditambah dengan karyawan kantor yang berada di lingkungan kampus menyebabkan parkiran di universitas pertamina cukup membludak. dan juga kasus hilangnya kartu parkir yang dimiliki mahasiswa dan pekerja kantor, menyebabkan pendataan setiap kendaraan per harinya semakin sulit, dikarenakan ada mahasiswa yang memiliki 2 kartu dan bisa digunakan teman  nya ketika kartu yang dimiliki temannya tersebut hilang.
+
+2. Proposed Solution
+Solusi yang akan kami berikan adalah, kami akan menawarkan bantuan berupa alat yang bisa menghitung jumlah kendaraan yang masuk kedalam kampus, sehingga pendataan kendaraan akan lebih mudah dan akurat. serta dengan dibantu dengan alat kami, harapan nya adalah bisa menjadi solusi untuk pengecekan data kartu parkir yang keluar dan masuk kembali ke petugas
+
+3. Use Case Diagram
+
